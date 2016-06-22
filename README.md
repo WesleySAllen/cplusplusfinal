@@ -7,7 +7,7 @@ The designation and the encrypted password will be saved for the user to draw fr
 This application will allow the user to view the decrypted.
 This application is accessed by a pin number.
 
-I have provided screen shots of the application in action for your viewing pleasure below.
+For your viewing pleasure below, I have provided screen shots of the application in action. As well as an example of the encrypted passwords saved in the text file.
 
 <img src="Screen Shot 2016-06-22 at 1.00.15 PM.png" />
 <img src="Screen Shot 2016-06-22 at 1.00.38 PM.png" />
